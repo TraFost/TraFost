@@ -6,3 +6,4 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TraFost&theme=github-dark&hide_border=true&currStreakLabel=EB5454)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,redux)](https://skillicons.dev)
