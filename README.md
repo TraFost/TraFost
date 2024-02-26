@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Rahman Nurudin
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on building website
-- 📫 How to reach me, Facebook: https://www.facebook.com/profile.php?id=100006013952007, Instagram: https://www.instagram.com/rahmannrdn/?hl=en, linkedin : https://www.linkedin.com/in/rahman-nurudin-44a8281ba/
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=TraFost)](https://github.com/FajarKim/github-readme-profile)
