@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trafost" alt="trafost" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript,Preacts**
+- 🌱 I’m currently learning **Typescript And React Native**
 
 - 📫 How to reach me **rahmannurudin29@gmail.com**
 
