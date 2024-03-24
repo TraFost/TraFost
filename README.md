@@ -13,10 +13,3 @@ A **Frontend Developer** with 1-2 years of experience specializing in Next.js, R
 
 ## Skills & Tools :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,firebase,git,redux,tailwind,cypress)](https://skillicons.dev)
-
-
-## Social : 
-- LinkedIn : https://www.linkedin.com/in/rahmannrdn/
-- Email : rahmannurudin29@gmail.com
-- Medium : https://medium.com/@rahwisdilfiqrak
-- Personal Website : https://trafost.github.io/personal-profile
