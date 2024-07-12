@@ -12,4 +12,4 @@ A **Frontend Developer** with 1-2 years of experience specializing in Next.js, R
 - 📫 How to reach me: rahmannurudin29@gmail.com
 
 ## Skills & Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,firebase,git,redux,tailwind,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,firebase,git,redux,tailwind,bootstrap,jest)](https://skillicons.dev)
