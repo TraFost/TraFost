@@ -5,11 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmannurudin29@gmail.com)
 
 ## About Me :
-Frontend Developer with experience in transforming design mockups into functional web pages and applications. I make sure websites are visually appealing and perform well across all devices. Proficient in React, Next.js, TypeScript, and JavaScript, I also have experience with React Native for mobile app development. Currently looking for new opportunities to work on exciting projects.
-
-- 🔭 I’m currently working on Task Manager App (React Native) 
-- 🌱 I’m currently learning Backend & Mobile Development 
-- 📫 How to reach me: rahmannurudin29@gmail.com
+Frontend Developer with 2 years of experience in transforming design concepts into responsive and visually appealing web and mobile applications. Skilled in React, Next.js, TypeScript, and JavaScript, with additional experience in React Native for mobile development. Passionate about clean code and user-friendly interfaces. Currently seeking new opportunities to contribute to innovative and impactful projects.
 
 ## Skills & Tools :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,firebase,git,redux,tailwind,bootstrap,jest)](https://skillicons.dev)
