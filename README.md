@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Rahman Nurudin
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Holla, I'm Rahman Nurudin
 [![Website](https://img.shields.io/badge/personal.website-grey?style=for-the-badge&url=https://trafost.github.io/personal-profile)](https://trafost.github.io/personal-profile)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@rahwisdilfiqrak)](https://medium.com/@rahwisdilfiqrak)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/rahmannrdn/)](https://www.linkedin.com/in/rahmannrdn/)
