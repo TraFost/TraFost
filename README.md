@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmannurudin29@gmail.com)
 
 ## About Me :
-Frontend Developer with 2 years of experience, I’m all about React, Next.js, and TypeScript, with a touch of React Native for mobile development. Obsessed with clean code and intuitive interfaces, Always eager for new opportunities to contribute to innovative projects and expand my skillset as Frontend Developer.
+A passionate Front-End Developer with over 2 years of experience building high-performing web and mobile applications. Specializing in React, Next.js, TypeScript, and React Native, I focus on crafting clean, maintainable code and pixel-perfect designs that deliver exceptional user experiences. I thrive in dynamic, fast-paced environments and excel at collaborating with cross-functional teams—from designers to CTOs—to solve complex challenges. Always eager to learn and explore emerging technologies, I am driven by a commitment to innovation and quality.
 
 ## Skills & Tools :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,firebase,git,redux,tailwind,bootstrap,jest)](https://skillicons.dev)
