@@ -35,17 +35,17 @@ const rahman = {
 
 ## What I Do
 
-- 🌐 Build full-stack applications with React/Next.js frontend and Nest.js backend
-- 🔄 Design and implement RESTful APIs
-- 🗕️ Create and optimize database schemas and queries
-- 💻 Develop responsive, accessible web and mobile applications
-- 🔍 Optimize performance using code splitting, lazy loading, and caching
-- 💡 Write unit tests and ensure code quality
-- 🚀 Improve SEO and web vitals
-- 🗑️ Thrive in Agile environments
-- 🤝 Collaborate across teams from design to tech leadership
+-  Build full-stack applications with React/Next.js frontend and Nest.js backend
+-  Design and implement RESTful APIs
+-  Create and optimize database schemas and queries
+-  Develop responsive, accessible web and mobile applications
+-  Optimize performance using code splitting, lazy loading, and caching
+-  Write unit tests and ensure code quality
+-  Improve SEO and web vitals
+-  Thrive in Agile environments
+-  Collaborate across teams from design to tech leadership
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 <div align="center">
 
