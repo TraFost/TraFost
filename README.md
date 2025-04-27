@@ -121,6 +121,12 @@ I'm always open to new opportunities and conversations. Feel free to reach out!
 
 ---
 
-<div align="center">
+## Roots of My Drive (原動力)
+
+I'm a die-hard Hajime no Ippo (はじめの一歩) fan.
+The fighting spirit and the meaning behind "taking the first step" (一歩) fuel how I build, learn, and grow every single day.
+
+
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=trafost&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
