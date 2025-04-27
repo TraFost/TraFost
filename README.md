@@ -1,4 +1,4 @@
-# Rahman Nurudin | 一歩
+# Rahman Nurudin | Full-Stack Developer | 一歩
 
 <div align="center">
 
@@ -11,7 +11,14 @@
 
 ## About Me
 
-A highly motivated Full-Stack Developer with 2+ years of experience crafting high-performing web and mobile applications. Specializing in React and Next.js for frontends, React Native for mobile, and Nest.js for backends. Passionate about scalable, optimized solutions and continuous learning.
+Hi, I'm Rahman — a Full-Stack Developer passionate about crafting high-performance web and mobile apps with 2+ years of experience. I love building scalable, optimized solutions that deliver real impact.
+
+I craft full-stack applications end-to-end: designing and building RESTful APIs, creating efficient and scalable database structures, and ensuring every product is responsive, accessible, and performance-tuned — whether for web or mobile.
+
+Performance isn't just a bonus for me; it's a priority. I focus heavily on code splitting, lazy loading, smart caching, and SEO optimization to keep applications fast, smooth, and discoverable.
+Code quality matters too — I write unit tests and work with Agile teams, collaborating across design, development, and tech leadership.
+
+I thrive on clean code, scalable architecture, continuous learning, and staying at the forefront of new technologies — always taking the next step forward.
 
 ```javascript
 const rahman = {
@@ -29,7 +36,7 @@ const rahman = {
     testing: ["Jest", "Lighthouse", "SEO Optimization"],
   },
   education: "Bachelor of Informatics Engineering, Universitas Muhammadiyah Tangerang",
-  currentFocus: "Building full-stack applications with React / Next as frontend and Nest.js as Backend",
+  currentFocus: "Building full-stack applications using React/Next.js for frontend and Nest.js for backend development",
 };
 ```
 
@@ -88,19 +95,7 @@ const rahman = {
 
 </div>
 
-## What I Do
-
--  Build full-stack applications with React/Next.js frontend and Nest.js backend
--  Design and implement RESTful APIs
--  Create and optimize database schemas and queries
--  Develop responsive, accessible web and mobile applications
--  Optimize performance using code splitting, lazy loading, and caching
--  Write unit tests and ensure code quality
--  Improve SEO and web vitals
--  Thrive in Agile environments
--  Collaborate across teams from design to tech leadership
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trafost&show_icons=true&theme=radical" alt="Rahman's GitHub Stats" />
