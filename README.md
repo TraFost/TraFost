@@ -95,6 +95,9 @@ const rahman = {
   <img src="https://github-readme-stats.vercel.app/api?username=trafost&show_icons=true&theme=radical" alt="Rahman's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trafost&theme=radical" alt="Rahman's GitHub Streak" />
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=trafost&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
 
 ## Let's Connect!
 
@@ -117,8 +120,3 @@ I'm always open to new opportunities and conversations. Feel free to reach out!
 
 I'm a die-hard Hajime no Ippo (はじめの一歩) fan.
 The fighting spirit and the meaning behind "taking the first step" (一歩) fuel how I build, learn, and grow every single day.
-
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=trafost&style=flat-square&color=blueviolet" alt="Profile views" />
-</div>
