@@ -1,25 +1,19 @@
 # Rahman Nurudin | Full-Stack Developer | 一歩
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F0599?style=for-the-badge&logo=About.me&logoColor=white)](https://trafost.github.io/personal-profile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahwisdilfiqrak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmannrdn/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmannurudin29@gmail.com)
-
-</div>
+<p align="center">
+  Building fast, scalable, and impactful apps — with clean code and a growth mindset.<br>
+  Passionate about technology, serious about results.
+</p>
 
 ## About Me
 
-Hi, I'm Rahman — a Full-Stack Developer passionate about crafting high-performance web and mobile apps with 2+ years of experience. I love building scalable, optimized solutions that deliver real impact.
+I'm a Full-Stack Developer with a passion for crafting high-performance web and mobile applications, backed by 2+ years of experience. I specialize in building scalable, optimized solutions that deliver real, measurable impact.
 
-I craft full-stack applications end-to-end: designing and building RESTful APIs, creating efficient and scalable database structures, and ensuring every product is responsive, accessible, and performance-tuned — whether for web or mobile.
+I develop full-stack applications end-to-end — designing and building RESTful APIs, creating efficient and scalable database architectures, and ensuring every product is responsive, accessible, and fine-tuned for performance, whether on web or mobile platforms.
 
-Performance isn't just a bonus for me; it's a priority. I focus heavily on code splitting, lazy loading, smart caching, and SEO optimization to keep applications fast, smooth, and discoverable.
-Code quality matters too — I write unit tests and work with Agile teams, collaborating across design, development, and tech leadership.
+Performance isn’t just a bonus for me — it’s a priority. I focus heavily on code splitting, lazy loading, smart caching, and SEO optimization to keep applications fast, smooth, and discoverable.
 
-I thrive on clean code, scalable architecture, continuous learning, and staying at the forefront of new technologies — always taking the next step forward.
-
+Clean code, scalable architecture, and continuous learning are at the heart of how I work. I collaborate closely with Agile teams, write unit tests, and stay at the forefront of new technologies — always taking the next step forward to build better.
 ```javascript
 const rahman = {
   location: "Tangerang, Indonesia",
@@ -108,7 +102,10 @@ I'm always open to new opportunities and conversations. Feel free to reach out!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-4F0599?style=for-the-badge&logo=About.me&logoColor=white)](https://trafost.github.io/personal-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F0599?style=for-the-badge&logo=About.me&logoColor=white)](https://trafost.github.io/personal-profile)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahwisdilfiqrak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmannrdn/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmannurudin29@gmail.com)
 
 <p>📍 Based in Tangerang, Indonesia • 🌐 Open to Remote / Hybrid Opportunities</p>
 
