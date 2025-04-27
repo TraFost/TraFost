@@ -1,4 +1,4 @@
-# 👨‍💻 Hello World, I'm Rahman Nurudin!
+# Rahman Nurudin | 一歩
 
 <div align="center">
 
