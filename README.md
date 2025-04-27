@@ -11,7 +11,7 @@
 
 ## About Me
 
-A highly motivated Full-Stack Developer with 2+ years of experience crafting high-performing web and mobile applications. Specializing in React and Next.js for frontends, and Nest.js for backends. Passionate about scalable, optimized solutions and continuous learning.
+A highly motivated Full-Stack Developer with 2+ years of experience crafting high-performing web and mobile applications. Specializing in React and Next.js for frontends, React Native for mobile, and Nest.js for backends. Passionate about scalable, optimized solutions and continuous learning.
 
 ```javascript
 const rahman = {
