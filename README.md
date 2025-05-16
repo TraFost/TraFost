@@ -23,7 +23,7 @@ const rahman = {
   skills: {
     languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
     frontendFrameworks: ["React", "Next.js", "React Native"],
-    backendFrameworks: ["Nest.js", "Express.js", "Node.js"],
+    backendFrameworks: ["Nest.js", "Express.js"],
     libraries: ["Material-UI", "React Query", "Jotai", "Zustand", "Redux", "TailwindCSS", "Socket.io"],
     databases: ["MongoDB", "PostgreSQL"],
     devOps: ["Git", "Docker", "GCP", "Firebase", "Supabase", "Postman"],
