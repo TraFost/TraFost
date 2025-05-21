@@ -1,4 +1,4 @@
-# Rahman Nurudin | Full-Stack Developer | 一歩
+# Rahman Nurudin | Full-Stack Developer
 
 <p align="center">
   Building fast, scalable, and impactful apps — with clean code and a growth mindset.<br>
