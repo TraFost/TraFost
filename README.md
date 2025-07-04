@@ -7,11 +7,11 @@
 
 ## About Me
 
-I'm a Full-Stack Developer with a passion for crafting high-performance web and mobile applications, backed by 2+ years of experience. I specialize in building scalable, optimized solutions that deliver real, measurable impact.
+I'm a Full-Stack Developer with a passion for crafting high-performance web and mobile applications, with over two years of hands-on experience I specialize in building scalable, optimized solutions that deliver real, measurable impact.
 
-I develop full-stack applications end-to-end — designing and building RESTful APIs, creating efficient and scalable database architectures, and ensuring every product is responsive, accessible, and fine-tuned for performance, whether on web or mobile platforms.
+I develop full-stack applications end-to-end — designing and building RESTful APIs, Designing efficient and scalable database architectures, and ensuring every product is responsive, accessible, and fine-tuned for performance, across both web and mobile platforms.
 
-Performance isn’t just a bonus for me — it’s a priority. I focus heavily on code splitting, lazy loading, caching, and SEO optimization to keep applications fast, smooth, and discoverable.
+I treat performance as a requirement, not an afterthought. I focus heavily on code splitting, lazy loading, caching, and SEO optimization to keep applications fast, smooth, and discoverable.
 
 Clean code, scalable architecture, and continuous learning are at the heart of how I work. I collaborate closely with Agile teams, write unit tests, and stay at the forefront of new technologies — always taking the next step forward to build better.
 ```javascript
