@@ -7,30 +7,23 @@
 
 ## About Me
 
-I'm a Full-Stack Developer with a passion for crafting high-performance web and mobile applications, with over two years of hands-on experience I specialize in building scalable, optimized solutions that deliver real, measurable impact.
+I'm Rahman, a Full-Stack Developer from Tangerang with a little over two years of experience. I care about clean code, performance, and writing software that actually solves problems. I like working on things end-to-end, setting up the backend, connecting APIs, and polishing the frontend until it feels right.
 
-I develop full-stack applications end-to-end — designing and building RESTful APIs, Designing efficient and scalable database architectures, and ensuring every product is responsive, accessible, and fine-tuned for performance, across both web and mobile platforms.
+I’ve worked in different setups, from building on top of existing products to helping shape something from the ground up. I’m most comfortable with TypeScript, React, Next.js, React Native, and Nest.js, but I’m always learning. Lately, I’ve been focusing more on backend performance, architecture decisions, and real-world maintainability.
 
-I treat performance as a requirement, not an afterthought. I focus heavily on code splitting, lazy loading, caching, and SEO optimization to keep applications fast, smooth, and discoverable.
-
-Clean code, scalable architecture, and continuous learning are at the heart of how I work. I collaborate closely with Agile teams, write unit tests, and stay at the forefront of new technologies — always taking the next step forward to build better.
 ```javascript
 const rahman = {
   location: "Tangerang, Indonesia",
-  title: "Full-Stack Developer",
+  role: "Full-Stack Developer",
   experience: "2+ years",
-  passions: ["Clean Code", "Scalable Architecture", "Performance Optimization", "Continuous Learning"],
-  skills: {
-    languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    frontendFrameworks: ["React", "Next.js", "React Native"],
-    backendFrameworks: ["Nest.js", "Express.js"],
-    libraries: ["Material-UI", "React Query", "Jotai", "Zustand", "Redux", "TailwindCSS", "Socket.io"],
-    databases: ["MongoDB", "PostgreSQL"],
-    devOps: ["Git", "Docker", "GCP", "Firebase", "Supabase", "Postman"],
-    testing: ["Jest", "Lighthouse", "SEO Optimization"],
+  strengths: ["Fast delivery", "Code quality", "Problem solving", "Product thinking"],
+  stack: {
+    frontend: ["React", "Next.js", "React Native"],
+    backend: ["Nest.js", "Express.js"],
+    databases: ["PostgreSQL", "MongoDB"],
+    tools: ["Docker", "GCP", "Firebase", "Git", "Postman"],
   },
-  education: "Bachelor of Informatics Engineering, Universitas Muhammadiyah Tangerang",
-  currentFocus: "Building full-stack applications using React/Next.js for frontend and Nest.js for backend development",
+  workingOn: "Building full-stack apps using Next.js and Nest.js",
 };
 ```
 
