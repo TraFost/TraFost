@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm Rahman, a Full-Stack Developer from Tangerang with a little over two years of experience. I care about clean code, performance, and writing software that actually solves problems. I like working on things end-to-end, setting up the backend, connecting APIs, and polishing the frontend until it feels right.
+I'm a Full-Stack Developer from Tangerang with a little over two years of experience. I care about clean code, performance, and writing software that actually solves problems. I like working on things end-to-end, setting up the backend, connecting APIs, and polishing the frontend until it feels right.
 
 I’ve worked in different setups, from building on top of existing products to helping shape something from the ground up. I’m most comfortable with TypeScript, React, Next.js, React Native, and Nest.js, but I’m always learning. Lately, I’ve been focusing more on backend performance, architecture decisions, and real-world maintainability.
 
