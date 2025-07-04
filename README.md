@@ -108,7 +108,7 @@ I'm always open to new opportunities and conversations. Feel free to reach out!
 
 ---
 
-## Roots of My Drive (原動力)
+## 🥊 Personal Drive (原動力)
 
-I'm a die-hard Hajime no Ippo (はじめの一歩) fan.
-The fighting spirit and the meaning behind "taking the first step" (一歩) fuel how I build, learn, and grow every single day.
+I'm a big fan of Hajime no Ippo, the idea of “taking the first step” (一歩) is how I keep moving forward.
+I come from a background where I had to learn everything the hard way. Now I show up every day with focus, hunger, and heart.
