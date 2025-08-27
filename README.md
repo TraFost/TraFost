@@ -1,8 +1,7 @@
 # Rahman Nurudin | Full-Stack Developer
 
 <p align="center">
-  Building fast, scalable, and impactful apps — with clean code and a growth mindset.<br>
-  Passionate about technology, serious about results.
+  Fullstack developer who loves building real stuff that works, from web and mobile apps to backend systems. Always learning, always shipping.
 </p>
 
 ## About Me
