@@ -1,30 +1,70 @@
 # Rahman Nurudin | Full-Stack Developer
 
 <p align="center">
-  Fullstack developer who loves building real stuff that works, from web and mobile apps to backend systems. Always learning, always shipping.
+  Fullstack developer who loves building real stuff that works, from web and mobile apps to backend systems. Always learning, shipping, improving.
 </p>
 
 ## About Me
 
-I'm a Full-Stack Developer from Tangerang with a little over two years of experience. I care about clean code, performance, and writing software that actually solves problems. I like working on things end-to-end, setting up the backend, connecting APIs, and polishing the frontend until it feels right.
+I’m a Full-Stack Developer from Tangerang with 2+ years of professional experience. I’ve delivered production-ready platforms across **web, mobile, and backend**, from SaaS apps with encrypted chat to Supabase backends with role-based logic.
 
-I’ve worked in different setups, from building on top of existing products to helping shape something from the ground up. I’m most comfortable with TypeScript, React, Next.js, React Native, and Nest.js, but I’m always learning. Lately, I’ve been focusing more on backend performance, architecture decisions, and real-world maintainability.
+I enjoy owning projects end-to-end, whether it's designing schemas, building APIs, and polishing frontend experiences. My focus is on **clean architecture, performance, and reliability** that scales. Recently, I’ve taken on larger responsibilities shaping system flows, job queues, and integrations while still keeping my frontend expertise sharp.
 
 ```javascript
 const rahman = {
-  location: "Tangerang, Indonesia",
-  role: "Full-Stack Developer",
-  experience: "2+ years",
-  strengths: ["Fast delivery", "Code quality", "Problem solving", "Product thinking"],
-  stack: {
-    frontend: ["React", "Next.js", "React Native"],
-    backend: ["Nest.js", "Express.js"],
-    databases: ["PostgreSQL", "MongoDB"],
-    tools: ["Docker", "GCP", "Firebase", "Git", "Postman"],
-  },
-  workingOn: "Building full-stack apps using Next.js and Nest.js",
+location: "Tangerang, Indonesia",
+role: "Full-Stack Developer",
+experience: "2+ years",
+strengths: ["System design", "Frontend polish", "Backend performance", "Product thinking"],
+stack: {
+frontend: ["React", "Next.js", "React Native"],
+backend: ["NestJS", "Supabase (RPC)", "Express.js"],
+databases: ["PostgreSQL", "MongoDB"],
+infra: ["Docker", "GCP Cloud Run", "AWS S3", "Firebase"],
+},
+workingOn: "Building SaaS platforms and fullstack apps with TypeScript",
 };
 ```
+
+---
+
+## Featured Projects
+
+### Ruang Diri – Mental Health SaaS (Work)
+Core developer for a platform connecting clients with psychologists.
+- Built **encrypted real-time chat** with Ably (presence, unread tracking, file sharing).
+- Developed **job queues** for Zoom sessions, schedule notifications, and chat automation.
+- Deployed on **Docker + GCP Cloud Run**.
+**Stack:** NestJS, PostgreSQL (Drizzle), Bull Queue, Redis, Ably, Next.js
+
+---
+
+### Ubersnap – Event Photography Platform (Singapore, Remote)
+Frontend developer for a startup delivering instant event photo uploads.
+- Shipped features like **optimistic updates, polling, and queue requests**.
+- Improved SEO + performance (higher Lighthouse scores).
+- Boosted **user engagement by 25%** with faster, interactive UIs.
+**Stack:** Next.js, TypeScript, Jest, Rx.js, AWS, Docker, Firebase
+
+---
+
+### Healstation – Korean Client Projects
+Delivered **7 end-to-end web & mobile apps** for paying clients.
+- Built apps from scratch under shifting requirements.
+- Developed a **thermal receipt-printing solution** in a web app.
+- Maintained **cross-device/browser compatibility**.
+**Stack:** React, Next.js, React Native, TypeScript, Firebase, Redux/Zustand
+
+
+---
+
+### BIMTranslator – AI Sign Language Translator (Hackathon - PAN AI Singapore)
+Hackathon project translating Malay Sign Language into text in real time.
+- Implemented **hand gesture recognition** with TensorFlow.js + MediaPipe.
+- Deployed with **GCP Cloud Run** for browser-based live translation.
+**Stack:** React, TensorFlow.js, GCP, MediaPipe, Scikit
+
+---
 
 ## Skills & Technologies
 
