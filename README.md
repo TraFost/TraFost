@@ -6,9 +6,9 @@
 
 ## About Me
 
-I’m a Full-Stack Developer from Tangerang with 2+ years of professional experience. I’ve delivered production-ready platforms across **web, mobile, and backend**, from SaaS apps with encrypted chat to Supabase backends with role-based logic.
+I’m a Full Stack Developer with over 2 years of experience delivering web and mobile applications. Skilled in React, Next.js, NestJS, PostgreSQL, Redis, and cloud platforms, I have built production-ready systems that include secure APIs, real-time chat, and optimized workflows.
 
-I enjoy owning projects end-to-end, whether it's designing schemas, building APIs, and polishing frontend experiences. My focus is on **clean architecture, performance, and reliability** that scales. Recently, I’ve taken on larger responsibilities shaping system flows, job queues, and integrations while still keeping my frontend expertise sharp.
+I take full ownership of projects, from database schema design and backend architecture to frontend polish and user experience. My focus is on clean architecture, performance, and reliability, with recent work involving system flows, background job queues, and integrations.
 
 ```javascript
 const rahman = {
@@ -147,7 +147,7 @@ I'm always open to new opportunities and conversations. Feel free to reach out!
 
 ---
 
-## 🥊 Personal Drive (原動力)
+## Personal Drive (原動力)
 
 I'm a big fan of Hajime no Ippo, the idea of “taking the first step” (一歩) is how I keep moving forward.
 I come from a background where I had to learn everything the hard way. Now I show up every day with focus, hunger, and heart.
