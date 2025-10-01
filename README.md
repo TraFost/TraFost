@@ -30,7 +30,7 @@ workingOn: "Building SaaS platforms and fullstack apps with TypeScript",
 
 ## Featured Projects
 
-### Ruang Diri – Mental Health SaaS (Work)
+### Ruang Diri – Mental Health SaaS (Current Work)
 Core developer for a platform connecting clients with psychologists.
 - Built **encrypted real-time chat** with Ably (presence, unread tracking, file sharing).
 - Developed **job queues** for Zoom sessions, schedule notifications, and chat automation.
