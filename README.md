@@ -1,4 +1,4 @@
-# Rahman Nurudin | Full-Stack Developer
+# Rahman Nurudin |
 
 <p align="center">
   Fullstack developer who loves building real stuff that works, from web and mobile apps to backend systems. Always learning, shipping, improving.
