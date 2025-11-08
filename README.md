@@ -1,28 +1,21 @@
 # Rahman Nurudin
 
-<p align="center">
-  Fullstack developer who loves building real stuff that works, from web and mobile apps to backend systems. Always learning, shipping, improving.
-</p>
-
 ## About Me
 
-I’m a Full Stack Developer with over 2 years of experience delivering web and mobile applications. Skilled in React, Next.js, NestJS, PostgreSQL, Redis, and cloud platforms, I have built production-ready systems that include secure APIs, real-time chat, and optimized workflows.
-
-I take full ownership of projects, from database schema design and backend architecture to frontend polish and user experience. My focus is on clean architecture, performance, and reliability, with recent work involving system flows, background job queues, and integrations.
+Fullstack developer building end-to-end web and mobile applications.  
+Lately focused more on backend — chat systems, background jobs, AI integrations, caching, and event-driven flows.
 
 ```javascript
 const rahman = {
 location: "Tangerang, Indonesia",
 role: "Full-Stack Developer",
-experience: "2+ years",
-strengths: ["System design", "Frontend polish", "Backend performance", "Product thinking"],
 stack: {
 frontend: ["React", "Next.js", "React Native"],
-backend: ["NestJS", "Supabase (RPC)", "Express.js"],
+backend: ["NestJS", "Supabase (RPC)", "Express.js", "Hono"],
 databases: ["PostgreSQL", "MongoDB"],
-infra: ["Docker", "GCP Cloud Run", "AWS S3", "Firebase"],
+infra: ["Docker", "GCP", "AWS"],
 },
-workingOn: "Building SaaS platforms and fullstack apps with TypeScript",
+workingOn: "Building Mental Health Counseling Platform",
 };
 ```
 
@@ -30,41 +23,36 @@ workingOn: "Building SaaS platforms and fullstack apps with TypeScript",
 
 ## Featured Projects
 
-### Ruang Diri – Mental Health SaaS (Current Work)
-Core developer for a platform connecting clients with psychologists.
-- Built **encrypted real-time chat** with Ably (presence, unread tracking, file sharing).
-- Developed **job queues** for Zoom sessions, schedule notifications, and chat automation.
-- Deployed on **Docker + GCP Cloud Run**.
-**Stack:** NestJS, PostgreSQL (Drizzle), Bull Queue, Redis, Ably, Next.js
+### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
+Led the full development of **LoLo**, a League of Legends companion that uses AWS Bedrock to analyze player performance and deliver reflective insights.  
+- Designed the **overall architecture**, defining how data flows between Riot API, AI analysis, and the frontend.  
+- Built the **backend** with Hono, AWS Lambda, SST, and S3.  
+- Worked on **AI reasoning pipelines** powered by Bedrock for player insights and pro comparisons.  
+- Contributed to **frontend integration**, ensuring smooth data handling and consistency across the app.  
+**Stack:** Hono, AWS Lambda, S3, Bedrock, React, Vite, Tailwind  
 
 ---
 
-### Ubersnap – Event Photography Platform (Singapore, Remote)
-Frontend developer for a startup delivering instant event photo uploads.
-- Shipped features like **optimistic updates, polling, and queue requests**.
-- Improved SEO + performance (higher Lighthouse scores).
-- Boosted **user engagement by 25%** with faster, interactive UIs.
-**Stack:** Next.js, TypeScript, Jest, Rx.js, AWS, Docker, Firebase
+### **BIMTranslator – AI Sign Language Translator (PAN AI Singapore Hackathon 2025)**  
+Worked on the **frontend** for an AI-powered translator that converts Malay Sign Language into text in real time.  
+- Built a responsive **gesture recognition interface** using TensorFlow.js and MediaPipe.  
+- Integrated **PAN AI LLMs** for contextual text generation and improved translation accuracy.  
+- Deployed via **GCP Cloud Run** for seamless browser-based interaction.  
+**Stack:** React, TensorFlow.js, MediaPipe, GCP, PAN AI LLMs  
 
 ---
 
-### Healstation – Korean Client Projects
-Delivered **7 end-to-end web & mobile apps** for paying clients.
-- Built apps from scratch under shifting requirements.
-- Developed a **thermal receipt-printing solution** in a web app.
-- Maintained **cross-device/browser compatibility**.
-**Stack:** React, Next.js, React Native, TypeScript, Firebase, Redux/Zustand
-
-
----
-
-### BIMTranslator – AI Sign Language Translator (Hackathon - PAN AI Singapore)
-Hackathon project translating Malay Sign Language into text in real time.
-- Implemented **hand gesture recognition** with TensorFlow.js + MediaPipe.
-- Deployed with **GCP Cloud Run** for browser-based live translation.
-**Stack:** React, TensorFlow.js, GCP, MediaPipe, Scikit
+### **Ruang Diri – Mental Health Counseling Platform (Recent Work)**  
+Core engineer for a counseling platform connecting clients with psychologists.  
+- Built the backend with **NestJS** and **PostgreSQL (Drizzle ORM)**.  
+- Added **real-time chat** with presence, file sharing, and unread tracking using Ably.  
+- Integrated **Zoom automation**, notifications, and background jobs with Bull + Redis.  
+- Containerized and deployed the app on **GCP Cloud Run** using Docker.
+- Added **retry logic** and monitoring to background tasks.  
+**Stack:** NestJS, PostgreSQL (Drizzle), Redis, BullMQ, Ably, React
 
 ---
+
 
 ## Skills & Technologies
 
@@ -83,7 +71,9 @@ Hackathon project translating Malay Sign Language into text in real time.
 ### Backend
 
 ![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=hono&logoColor=orange)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Databases
 
@@ -104,14 +94,11 @@ Hackathon project translating Malay Sign Language into text in real time.
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### DevOps & Tools
+### Cloud & Infrastructure
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Testing & Optimization
 
@@ -141,13 +128,8 @@ I'm always open to new opportunities and conversations. Feel free to reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmannrdn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmannurudin29@gmail.com)
 
-<p>📍 Based in Tangerang, Indonesia • 🌐 Open to Remote / Hybrid Opportunities</p>
+<p>Based in Tangerang, Indonesia • Open to Remote / Hybrid Opportunities</p>
 
 </div>
 
 ---
-
-## Personal Drive (原動力)
-
-I'm a big fan of Hajime no Ippo, the idea of “taking the first step” (一歩) is how I keep moving forward.
-I come from a background where I had to learn everything the hard way. Now I show up every day with focus, hunger, and heart.
