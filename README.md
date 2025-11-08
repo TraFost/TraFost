@@ -3,7 +3,7 @@
 ## About Me
 
 Fullstack developer building end-to-end web and mobile applications.  
-Lately focused more on backend — chat systems, background jobs, AI integrations, caching, and event-driven flows.
+Lately focused more on backend, primarily in chat systems, background jobs, AI integrations, caching, and event-driven flows.
 
 ```javascript
 const rahman = {
