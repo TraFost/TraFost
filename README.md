@@ -1,4 +1,10 @@
-# Rahman Nurudin
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F0599?style=for-the-badge&logo=About.me&logoColor=white)](https://trafost.github.io/personal-profile)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahwisdilfiqrak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmannrdn/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmannurudin29@gmail.com)
+</div>
 
 ## About Me
 
@@ -115,21 +121,6 @@ Core engineer for a counseling platform connecting clients with psychologists.
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=trafost&style=flat-square&color=blueviolet" alt="Profile views" />
-</div>
-
-## Let's Connect!
-
-I'm always open to new opportunities and conversations. Feel free to reach out!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F0599?style=for-the-badge&logo=About.me&logoColor=white)](https://trafost.github.io/personal-profile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahwisdilfiqrak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmannrdn/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmannurudin29@gmail.com)
-
-<p>Based in Tangerang, Indonesia • Open to Remote / Hybrid Opportunities</p>
-
 </div>
 
 ---
