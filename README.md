@@ -11,20 +11,6 @@
 Fullstack developer building end-to-end web and mobile applications.  
 Lately focused more on backend, primarily in chat systems, background jobs, AI integrations, caching, and event-driven flows.
 
-```javascript
-const rahman = {
-location: "Tangerang, Indonesia",
-role: "Full-Stack Developer",
-stack: {
-frontend: ["React", "Next.js", "React Native"],
-backend: ["NestJS", "Supabase (RPC)", "Express.js", "Hono"],
-databases: ["PostgreSQL", "MongoDB"],
-infra: ["Docker", "GCP", "AWS"],
-},
-workingOn: "Building Mental Health Counseling Platform",
-};
-```
-
 ---
 
 ## Featured Projects
@@ -115,7 +101,7 @@ Core engineer for a counseling platform connecting clients with psychologists.
 
 ## GitHub Activity
 
-<div align="center">
+<div align="center" style={"display": "flex", "align-items": "center", "justify-content": "center"}>
   <img src="https://github-readme-stats.vercel.app/api?username=trafost&show_icons=true&theme=radical" alt="Rahman's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trafost&theme=radical" alt="Rahman's GitHub Streak" />
 </div>
