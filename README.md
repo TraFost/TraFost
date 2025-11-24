@@ -15,7 +15,7 @@ Lately focused more on backend, primarily in chat systems, background jobs, AI i
 
 ## Featured Projects
 
-### **AgentBunnies – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
+### **Orchestor – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
 Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations.
 - Designed the **end-to-end architecture**, mapping how CSV/XLSX data moves from frontend parsing into backend normalization and finally into the Orchestrate agent.  
 - Implemented the **backend** with Hono.  
