@@ -15,6 +15,15 @@ Lately focused more on backend, primarily in chat systems, background jobs, AI i
 
 ## Featured Projects
 
+### **AgentBunnies – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
+Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations.
+- Designed the **end-to-end architecture**, mapping how CSV/XLSX data moves from frontend parsing into backend normalization and finally into the Orchestrate agent.  
+- Implemented the **backend** with Hono.  
+- Integrated **IBM watsonx Orchestrate** using a custom JSON contract that drives multi-step agent reasoning for captions, validation, post-type classification, and scheduling.  
+- Built the agent’s **knowledge base**, combining brand guidelines, product features, rule logic, historical posting data, and a formal prompt spec for deterministic output.  
+- Delivered the entire **reasoning pipeline**, ensuring stable, machine-readable JSON for the frontend preview experience.
+**Stack:** Hono, Cloudflare Workers, TypeScript, IBM watsonx Orchestrate
+
 ### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
 Led the full development of **LoLo**, a League of Legends companion that uses AWS Bedrock to analyze player performance and deliver reflective insights.  
 - Designed the **overall architecture**, defining how data flows between Riot API, AI analysis, and the frontend.  
