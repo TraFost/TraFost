@@ -21,6 +21,7 @@ Developed the complete **real-time AI infrastructure** for an emotional support 
 - Engineered the **backend system** on Cloud Run, implementing secure session state management, authentication, and persistent storage with PostgreSQL and Drizzle.
 - Implemented a **multi-stage AI pipeline** that performs real-time emotional analysis and risk detection to ensure safety guardrails before generating adaptive voice responses.
 - Built the **contextual memory engine**, utilizing vector embeddings and session summarization to maintain conversation continuity and personalized user history across interactions.
+
 **Stack:** Node.js, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini Flash/Pro, Embeddings), ElevenLabs Realtime, Cloud Storage
 
 ### **Orchestor – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
