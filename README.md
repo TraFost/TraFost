@@ -31,6 +31,7 @@ Built the full **backend and AI orchestration layer** for an agentic system that
 - Integrated **IBM watsonx Orchestrate** using a custom JSON contract that drives multi-step agent reasoning for captions, validation, post-type classification, and scheduling.  
 - Built the agent’s **knowledge base**, combining brand guidelines, product features, rule logic, historical posting data, and a formal prompt spec for deterministic output.  
 - Delivered the entire **reasoning pipeline**, ensuring stable, machine-readable JSON for the frontend preview experience.
+
 **Stack:** Hono, Cloudflare Workers, TypeScript, IBM watsonx Orchestrate
 
 ### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
