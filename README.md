@@ -15,6 +15,14 @@ Recently shifted deeper into backend work: chat infrastructure, background worke
 
 ## Featured Projects
 
+### **Marmalade – Voice-First Emotional Companion (AI Partner Catalyst: Accelerate Innovation)**
+Developed the complete **real-time AI infrastructure** for an emotional support agent that leverages multi-modal inputs to detect risk, evaluate mood, and deliver personalized counseling.
+- Designed the **end-to-end architecture**, orchestrating real-time voice streaming (ElevenLabs) alongside dual-model inference (Gemini Flash for rapid scoring, Gemini Pro for counseling).
+- Engineered the **backend system** on Cloud Run, implementing secure session state management, authentication, and persistent storage with PostgreSQL and Drizzle.
+- Implemented a **multi-stage AI pipeline** that performs real-time emotional analysis and risk detection to ensure safety guardrails before generating adaptive voice responses.
+- Built the **contextual memory engine**, utilizing vector embeddings and session summarization to maintain conversation continuity and personalized user history across interactions.
+**Stack:** Node.js, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini Flash/Pro, Embeddings), ElevenLabs Realtime, Cloud Storage
+
 ### **Orchestor – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
 Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations.
 - Designed the **end-to-end architecture**, mapping how CSV/XLSX data moves from frontend parsing into backend normalization and finally into the Orchestrate agent.  
