@@ -26,44 +26,42 @@ Developed the complete **real-time AI infrastructure** for an emotional support 
 
 ### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
 Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19.
-- Serverless Orchestration: Managed the full-stack Turbo Monorepo on AWS SST (Lambda/Node.js 22), achieving <15ms latency for cached operations.
-- Deterministic AI Pipeline: Built a robust JSON-only architecture with Amazon Nova Micro, utilizing strict schema enforcement and token-optimized prompts to convert complex match logs into machine-readable coaching data.
-- Fault-Tolerant Design: Implemented "Graceful Degradation" logic where invalid AI outputs trigger deterministic fallbacks, ensuring 100% UI uptime even during LLM failures.
-- Resilient Data Ingestion: Developed a Global Rate Gate middleware to orchestrate Riot API consumption, managing concurrency and quotas across distributed services.
-- Dynamic Media Generation: Implemented on-the-fly social card generation using server-side rendering stored in S3.
-**Stack:** React 19, TypeScript, Hono, AWS Lambda (SST), Amazon Bedrock (Nova), TanStack Query, Tailwind, ShadCN.
+- **Serverless Orchestration:** Managed the full-stack Turbo Monorepo on AWS SST (Lambda/Node.js 22), achieving <15ms latency for cached operations.
+- **Deterministic AI Pipeline:** Built a robust JSON-only architecture with Amazon Nova Micro, utilizing strict schema enforcement and token-optimized prompts to convert complex match logs into machine-readable coaching data.
+- **Fault-Tolerant Design:** Implemented "Graceful Degradation" logic where invalid AI outputs trigger deterministic fallbacks, ensuring 100% UI uptime even during LLM failures.
+- **Resilient Data Ingestion:** Developed a Global Rate Gate middleware to orchestrate Riot API consumption, managing concurrency and quotas across distributed services.
+- **Dynamic Media Generation:** Implemented on-the-fly social card generation using server-side rendering stored in S3.
+
+**Stack:** React 19, TypeScript, Hono, AWS Lambda (SST), Amazon Bedrock (Nova), TanStack Query, Tailwind, ShadCN
 
 ### **Orchestor – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
 Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations.
-- Designed the **end-to-end architecture**, mapping how CSV/XLSX data moves from frontend parsing into backend normalization and finally into the Orchestrate agent.  
-- Implemented the **backend** with Hono.  
-- Integrated **IBM watsonx Orchestrate** using a custom JSON contract that drives multi-step agent reasoning for captions, validation, post-type classification, and scheduling.  
-- Built the agent’s **knowledge base**, combining brand guidelines, product features, rule logic, historical posting data, and a formal prompt spec for deterministic output.  
+- Designed the **end-to-end architecture**, mapping how CSV/XLSX data moves from frontend parsing into backend normalization and finally into the Orchestrate agent.
+- Implemented the **backend** with Hono.
+- Integrated **IBM watsonx Orchestrate** using a custom JSON contract that drives multi-step agent reasoning for captions, validation, post-type classification, and scheduling.
+- Built the agent’s **knowledge base**, combining brand guidelines, product features, rule logic, historical posting data, and a formal prompt spec for deterministic output.
 - Delivered the entire **reasoning pipeline**, ensuring stable, machine-readable JSON for the frontend preview experience.
+
 **Stack:** Hono, Cloudflare Workers, TypeScript, IBM watsonx Orchestrate
 
----
+### **BIMTranslator – AI Sign Language Translator (PAN AI Singapore Hackathon 2025)**
+Worked on the **frontend** for an AI-powered translator that converts Malay Sign Language into text in real time.
+- Built a responsive **gesture recognition interface** using TensorFlow.js and MediaPipe.
+- Integrated **PAN AI LLMs** for contextual text generation and improved translation accuracy.
+- Deployed via **GCP Cloud Run** for seamless browser-based interaction.
 
-### **BIMTranslator – AI Sign Language Translator (PAN AI Singapore Hackathon 2025)**  
-Worked on the **frontend** for an AI-powered translator that converts Malay Sign Language into text in real time.  
-- Built a responsive **gesture recognition interface** using TensorFlow.js and MediaPipe.  
-- Integrated **PAN AI LLMs** for contextual text generation and improved translation accuracy.  
-- Deployed via **GCP Cloud Run** for seamless browser-based interaction.  
-**Stack:** React, TensorFlow.js, MediaPipe, GCP, PAN AI LLMs  
+**Stack:** React, TensorFlow.js, MediaPipe, GCP, PAN AI LLMs
 
----
-
-### **Ruang Diri – Mental Health Counseling Platform (Professional Work)**  
-Core engineer for a counseling platform connecting clients with psychologists.  
-- Built the backend with **NestJS** and **PostgreSQL (Drizzle ORM)**.  
-- Added **real-time chat** with presence, file sharing, and unread tracking using Ably.  
-- Integrated **Zoom automation**, notifications, and background jobs with Bull + Redis.  
+### **Ruang Diri – Mental Health Counseling Platform (Professional Work)**
+Core engineer for a counseling platform connecting clients with psychologists.
+- Built the backend with **NestJS** and **PostgreSQL (Drizzle ORM)**.
+- Added **real-time chat** with presence, file sharing, and unread tracking using Ably.
+- Integrated **Zoom automation**, notifications, and background jobs with Bull + Redis.
 - Containerized and deployed the app on **GCP Cloud Run** using Docker.
-- Added **retry logic** and monitoring to background tasks.  
+- Added **retry logic** and monitoring to background tasks.
+
 **Stack:** NestJS, PostgreSQL (Drizzle), Redis, BullMQ, Ably, React
-
 ---
-
 
 ## Skills & Technologies
 
