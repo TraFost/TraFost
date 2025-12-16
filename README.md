@@ -25,11 +25,11 @@ Developed the complete **real-time AI infrastructure** for an emotional support 
 
 ### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
 Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19. **Delivered the app in a 4-week sprint with a 2-person team.**
-- **Serverless Orchestration:** Managed the full-stack Turbo Monorepo on AWS SST (Lambda/Node.js 22), achieving <15ms latency for cached operations.
-- **Deterministic AI Pipeline:** Built a robust JSON-only architecture with Amazon Nova Micro, utilizing strict schema enforcement and token-optimized prompts to convert complex match logs into machine-readable coaching data.
-- **Fault-Tolerant Design:** Implemented "Graceful Degradation" logic where invalid AI outputs trigger deterministic fallbacks, ensuring 100% UI uptime even during LLM failures.
-- **Resilient Data Ingestion:** Developed a Global Rate Gate middleware to orchestrate Riot API consumption, managing concurrency and quotas across distributed services.
-- **Dynamic Media Generation:** Implemented on-the-fly social card generation using server-side rendering stored in S3.
+- Managed the full-stack Turbo Monorepo on AWS SST (Lambda/Node.js 22), achieving <15ms latency for cached operations.
+- Built a robust JSON-only architecture with Amazon Nova Micro, utilizing strict schema enforcement and token-optimized prompts to convert complex match logs into machine-readable coaching data.
+- Implemented "Graceful Degradation" logic where invalid AI outputs trigger deterministic fallbacks, ensuring 100% UI uptime even during LLM failures.
+- Developed a Global Rate Gate middleware to orchestrate Riot API consumption, managing concurrency and quotas across distributed services.
+- Implemented on-the-fly social card generation using server-side rendering stored in S3.
 
 **Stack:** React 19, TypeScript, Hono, AWS Lambda (SST), Amazon Bedrock (Nova), TanStack Query, Tailwind, ShadCN
 
