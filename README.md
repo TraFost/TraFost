@@ -21,8 +21,16 @@ Developed the complete **real-time AI infrastructure** for an emotional support 
 - Engineered the **backend system** on Cloud Run, implementing secure session state management, authentication, and persistent storage with PostgreSQL and Drizzle.
 - Implemented a **multi-stage AI pipeline** that performs real-time emotional analysis and risk detection to ensure safety guardrails before generating adaptive voice responses.
 - Built the **contextual memory engine**, utilizing vector embeddings and session summarization to maintain conversation continuity and personalized user history across interactions.
+**Stack:** Hono, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini Flash, Pro, Embeddings), ElevenLabs, Cloud Storage, Pulumi
 
-**Stack:** Node.js, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini Flash/Pro, Embeddings), ElevenLabs Realtime, Cloud Storage
+### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
+Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19.
+- Serverless Orchestration: Managed the full-stack Turbo Monorepo on AWS SST (Lambda/Node.js 22), achieving <15ms latency for cached operations.
+- Deterministic AI Pipeline: Built a robust JSON-only architecture with Amazon Nova Micro, utilizing strict schema enforcement and token-optimized prompts to convert complex match logs into machine-readable coaching data.
+- Fault-Tolerant Design: Implemented "Graceful Degradation" logic where invalid AI outputs trigger deterministic fallbacks, ensuring 100% UI uptime even during LLM failures.
+- Resilient Data Ingestion: Developed a Global Rate Gate middleware to orchestrate Riot API consumption, managing concurrency and quotas across distributed services.
+- Dynamic Media Generation: Implemented on-the-fly social card generation using server-side rendering stored in S3.
+**Stack:** React 19, TypeScript, Hono, AWS Lambda (SST), Amazon Bedrock (Nova), TanStack Query, Tailwind, ShadCN.
 
 ### **Orchestor – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
 Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations.
@@ -31,16 +39,7 @@ Built the full **backend and AI orchestration layer** for an agentic system that
 - Integrated **IBM watsonx Orchestrate** using a custom JSON contract that drives multi-step agent reasoning for captions, validation, post-type classification, and scheduling.  
 - Built the agent’s **knowledge base**, combining brand guidelines, product features, rule logic, historical posting data, and a formal prompt spec for deterministic output.  
 - Delivered the entire **reasoning pipeline**, ensuring stable, machine-readable JSON for the frontend preview experience.
-
 **Stack:** Hono, Cloudflare Workers, TypeScript, IBM watsonx Orchestrate
-
-### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
-Led the full development of **LoLo**, a League of Legends companion that uses AWS Bedrock to analyze player performance and deliver reflective insights.  
-- Designed the **overall architecture**, defining how data flows between Riot API, AI analysis, and the frontend.  
-- Built the **backend** with Hono, AWS Lambda, SST, and S3.  
-- Worked on **AI reasoning pipelines** powered by Bedrock for player insights and pro comparisons.  
-- Contributed to **frontend integration**, ensuring smooth data handling and consistency across the app.  
-**Stack:** Hono, AWS Lambda, S3, Bedrock, React, Vite, Tailwind  
 
 ---
 
