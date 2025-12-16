@@ -61,6 +61,7 @@ Core engineer for a counseling platform connecting clients with psychologists.
 - Added **retry logic** and monitoring to background tasks.
 
 **Stack:** NestJS, PostgreSQL (Drizzle), Redis, BullMQ, Ably, React
+
 ---
 
 ## Skills & Technologies
