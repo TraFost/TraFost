@@ -25,7 +25,7 @@ Developed the complete **real-time AI infrastructure** for an emotional support 
 **Stack:** Hono, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini Flash, Pro, Embeddings), ElevenLabs, Cloud Storage, Pulumi
 
 ### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
-Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19.
+Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19. **Delivered the app in a 4-week sprint with a 2-person team.**
 - **Serverless Orchestration:** Managed the full-stack Turbo Monorepo on AWS SST (Lambda/Node.js 22), achieving <15ms latency for cached operations.
 - **Deterministic AI Pipeline:** Built a robust JSON-only architecture with Amazon Nova Micro, utilizing strict schema enforcement and token-optimized prompts to convert complex match logs into machine-readable coaching data.
 - **Fault-Tolerant Design:** Implemented "Graceful Degradation" logic where invalid AI outputs trigger deterministic fallbacks, ensuring 100% UI uptime even during LLM failures.
@@ -44,14 +44,6 @@ Built the full **backend and AI orchestration layer** for an agentic system that
 
 **Stack:** Hono, Cloudflare Workers, TypeScript, IBM watsonx Orchestrate
 
-### **BIMTranslator – AI Sign Language Translator (PAN AI Singapore Hackathon 2025)**
-Worked on the **frontend** for an AI-powered translator that converts Malay Sign Language into text in real time.
-- Built a responsive **gesture recognition interface** using TensorFlow.js and MediaPipe.
-- Integrated **PAN AI LLMs** for contextual text generation and improved translation accuracy.
-- Deployed via **GCP Cloud Run** for seamless browser-based interaction.
-
-**Stack:** React, TensorFlow.js, MediaPipe, GCP, PAN AI LLMs
-
 ### **Ruang Diri – Mental Health Counseling Platform (Professional Work)**
 Core engineer for a counseling platform connecting clients with psychologists.
 - Built the backend with **NestJS** and **PostgreSQL (Drizzle ORM)**.
@@ -61,6 +53,14 @@ Core engineer for a counseling platform connecting clients with psychologists.
 - Added **retry logic** and monitoring to background tasks.
 
 **Stack:** NestJS, PostgreSQL (Drizzle), Redis, BullMQ, Ably, React
+
+### **BIMTranslator – AI Sign Language Translator (PAN AI Singapore Hackathon 2025)**
+Worked on the **frontend** for an AI-powered translator that converts Malay Sign Language into text in real time.
+- Built a responsive **gesture recognition interface** using TensorFlow.js and MediaPipe.
+- Integrated **PAN AI LLMs** for contextual text generation and improved translation accuracy.
+- Deployed via **GCP Cloud Run** for seamless browser-based interaction.
+
+**Stack:** React, TensorFlow.js, MediaPipe, GCP, PAN AI LLMs
 
 ---
 
