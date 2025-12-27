@@ -16,12 +16,13 @@ Full-stack Engineer building production systems end to end. I combine high-perfo
 
 ### **Marmalade – Voice-First Emotional Companion (AI Partner Catalyst: Accelerate Innovation)**
 Developed the complete **real-time AI infrastructure** for an emotional support agent that leverages multi-modal inputs to detect risk, evaluate mood, and deliver personalized counseling.
-- Designed the **end-to-end architecture**, orchestrating real-time voice streaming (ElevenLabs) alongside dual-model inference (Gemini Flash for rapid scoring, Gemini Pro for counseling).
-- Engineered the **backend system** on Cloud Run, implementing secure session state management, authentication, and persistent storage with PostgreSQL and Drizzle.
-- Implemented a **multi-stage AI pipeline** that performs real-time emotional analysis and risk detection to ensure safety guardrails before generating adaptive voice responses.
-- Built the **contextual memory engine**, utilizing vector embeddings and session summarization to maintain conversation continuity and personalized user history across interactions.
+- Architected a high-performance multi-model pipeline using Gemini 2.5 Flash for sub-second risk classification (0–4 scale) and Gemini 2.5 Pro for deep, clinical-grade session synthesis.
+- Engineered a Universal OpenAI-Compatible Hook (/v1/chat/completions) that transforms the backend into a pluggable "Brain" for external voice agents like ElevenLabs, managing real-time SSE streaming and session mapping.
+- Built a Contextual Memory Engine utilizing text-embedding-005 and PostgreSQL (Drizzle) to maintain long-term user history, ensuring every interaction is grounded in past "anchors."
+- Developed deterministic safety guardrails via a custom Intervention Arbiter, enforcing Zod-validated schemas and risk-level gates to provide safe, empathetic mirroring without clinical diagnosis.
+- Optimized for Voice-First Latency on Google Cloud Run, orchestrating concurrent "First-Response" and "Counselor" streams to keep interaction fluid and human-centric.
 
-**Stack:** Hono, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini Flash, Pro, Embeddings), ElevenLabs, Cloud Storage, Pulumi
+**Stack:** Hono, React, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini Flash, Pro, Embeddings), ElevenLabs, Pulumi
 
 ### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
 Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19. **Delivered the app in a 4-week sprint with a 2-person team.**
@@ -31,7 +32,7 @@ Architected a high-performance, serverless AI companion that transforms raw Leag
 - Developed a Global Rate Gate middleware to orchestrate Riot API consumption, managing concurrency and quotas across distributed services.
 - Implemented on-the-fly social card generation using server-side rendering stored in S3.
 
-**Stack:** React 19, TypeScript, Hono, AWS Lambda (SST), Amazon Bedrock (Nova), TanStack Query, Tailwind, ShadCN
+**Stack:** React, TypeScript, Hono, AWS Lambda (SST), Amazon Bedrock (Nova), TanStack Query, Tailwind, ShadCN
 
 ### **Orchestor – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
 Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations.
@@ -41,7 +42,7 @@ Built the full **backend and AI orchestration layer** for an agentic system that
 - Built the agent’s **knowledge base**, combining brand guidelines, product features, rule logic, historical posting data, and a formal prompt spec for deterministic output.
 - Delivered the entire **reasoning pipeline**, ensuring stable, machine-readable JSON for the frontend preview experience.
 
-**Stack:** Hono, Cloudflare Workers, TypeScript, IBM watsonx Orchestrate
+**Stack:** React, Hono, Cloudflare Workers, TypeScript, IBM watsonx Orchestrate
 
 ### **Ruang Diri – Mental Health Counseling Platform (Professional Work)**
 Core engineer for a counseling platform connecting clients with psychologists.
