@@ -15,17 +15,17 @@ Full-stack Engineer building production systems end to end. I combine high-perfo
 ## Featured Projects
 
 ### **Marmalade – Voice-First Emotional Companion (AI Partner Catalyst: Accelerate Innovation)**
-Developed the complete **real-time AI infrastructure** for an emotional support agent that leverages multi-modal inputs to detect risk, evaluate mood, and deliver personalized counseling.
-- Architected a high-performance multi-model pipeline using Gemini 2.5 Flash for sub-second risk classification (0–4 scale) and Gemini 2.5 Pro for deep, clinical-grade session synthesis.
-- Engineered a Universal OpenAI-Compatible Hook (/v1/chat/completions) that transforms the backend into a pluggable "Brain" for external voice agents like ElevenLabs, managing real-time SSE streaming and session mapping.
-- Built a Contextual Memory Engine utilizing text-embedding-005 and PostgreSQL (Drizzle) to maintain long-term user history, ensuring every interaction is grounded in past "anchors."
-- Developed deterministic safety guardrails via a custom Intervention Arbiter, enforcing Zod-validated schemas and risk-level gates to provide safe, empathetic mirroring without clinical diagnosis.
-- Optimized for Voice-First Latency on Google Cloud Run, orchestrating concurrent "First-Response" and "Counselor" streams to keep interaction fluid and human-centric.
+Developed a **real-time voice AI infrastructure** that bypasses standard LLM constraints to deliver stateful, clinically aligned emotional support with strict safety guarantees. **Executed and delivered the full application independently within 4 weeks**
+- Designed a parallel speculative execution pipeline using **Gemini 2.5 Flash** for sub-second risk gating and **Gemini 2.5 Pro** for deep counseling synthesis, cutting perceived latency by ~40% without compromising safety.
+- Engineered a custom **OpenAI-Compatible Interface** (`/v1/chat/completions`) that overrides the ElevenLabs agent stack, forcibly routing inference through a proprietary memory and safety backend instead of a generic LLM.
+- Built a **Contextual Memory Engine** using PostgreSQL (Drizzle) and **Vertex Embeddings**, replacing episodic chat logs with longitudinal **SOAP-style records** anchored to persistent emotional states.
+- Implemented a deterministic **Intervention Arbiter** with Zod schema validation to intercept and block high-risk outputs (Risk Level ≥ 4) before audio synthesis, preserving conversational continuity while enforcing safety.
+- Optimized a **voice-first, low-latency architecture** on Google Cloud Run, coordinating real-time streaming, session control, and safety interception under production constraints.
 
-**Stack:** Hono, React, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini Flash, Pro, Embeddings), ElevenLabs, Pulumi
+**Stack:** React, Hono, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini 2.5 Flash, Gemini 2.5 Pro, Text-Embedding-005), ElevenLabs, Pulumi
 
 ### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
-Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19. **Delivered the app in a 4-week sprint with a 2-person team.**
+Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19. **Delivered the app in a 4-week sprint with a 2-person team**
 - Managed the full-stack Turbo Monorepo on AWS SST (Lambda/Node.js 22), achieving <15ms latency for cached operations.
 - Built a robust JSON-only architecture with Amazon Nova Micro, utilizing strict schema enforcement and token-optimized prompts to convert complex match logs into machine-readable coaching data.
 - Implemented "Graceful Degradation" logic where invalid AI outputs trigger deterministic fallbacks, ensuring 100% UI uptime even during LLM failures.
@@ -35,7 +35,7 @@ Architected a high-performance, serverless AI companion that transforms raw Leag
 **Stack:** React, TypeScript, Hono, AWS Lambda (SST), Amazon Bedrock (Nova), TanStack Query, Tailwind, ShadCN
 
 ### **Orchestor – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
-Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations.
+Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations. **Delivered the app in a 2-day sprint with 4-person team**
 - Designed the **end-to-end architecture**, mapping how CSV/XLSX data moves from frontend parsing into backend normalization and finally into the Orchestrate agent.
 - Implemented the **backend** with Hono.
 - Integrated **IBM watsonx Orchestrate** using a custom JSON contract that drives multi-step agent reasoning for captions, validation, post-type classification, and scheduling.
