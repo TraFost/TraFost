@@ -12,55 +12,27 @@ Full-stack Engineer building end-to-end production systems. I combine high-perfo
 
 ---
 
-## Featured Projects
+## Main Projects
 
-### **Marmalade – Voice-First Emotional Companion (AI Partner Catalyst: Accelerate Innovation)**
-Developed a **real-time voice AI infrastructure** that bypasses standard LLM constraints to deliver stateful, clinically aligned emotional support with strict safety guarantees. **Executed and delivered the full application independently within 4 weeks**
-- Designed a parallel speculative execution pipeline using **Gemini 2.5 Flash** for sub-second risk gating and **Gemini 2.5 Pro** for deep counseling synthesis, cutting perceived latency by ~40% without compromising safety.
-- Engineered a custom **OpenAI-Compatible Interface** (`/v1/chat/completions`) that overrides the ElevenLabs agent stack, forcibly routing inference through a proprietary memory and safety backend instead of a generic LLM.
-- Built a **Contextual Memory Engine** using PostgreSQL (Drizzle) and **Vertex Embeddings**, replacing episodic chat logs with longitudinal **SOAP-style records** anchored to persistent emotional states.
-- Implemented a deterministic **Intervention Arbiter** with Zod schema validation to intercept and block high-risk outputs (Risk Level ≥ 4) before audio synthesis, preserving conversational continuity while enforcing safety.
-- Optimized a **voice-first, low-latency architecture** on Google Cloud Run, coordinating real-time streaming, session control, and safety interception under production constraints.
+### 2026
+**Recess** — Production management platform; role-based workflows, approvals, and staged payouts with RLS-first PostgreSQL (Supabase, TypeScript)  
+**Poopooville** — Multi-chain dApp ecosystem; NFT minting, token sales, vesting/claim flows across Ethereum & BSC (React, Wagmi, Viem)
 
-**Stack:** React, Hono, Google Cloud Run, PostgreSQL, Drizzle ORM, Vertex AI (Gemini 2.5 Flash, Gemini 2.5 Pro, Text-Embedding-005), ElevenLabs, Pulumi
+### 2025
+**Ruang Diri** — Counseling platform with real-time chat, session automation, file uploads, and search; modular multi-role backend with strict access control and real-time delivery (NestJS, React, PostgreSQL, BullMQ, Ably, GCP)
 
-### **LoLo – AI League Coach (Rift Rewind Hackathon 2025)**
-Architected a high-performance, serverless AI companion that transforms raw League of Legends match data into actionable coaching insights using AWS Bedrock and React 19. **Delivered the app in a 4-week sprint with a 2-person team**
-- Managed the full-stack Turbo Monorepo on AWS SST (Lambda/Node.js 22), achieving <15ms latency for cached operations.
-- Built a robust JSON-only architecture with Amazon Nova Micro, utilizing strict schema enforcement and token-optimized prompts to convert complex match logs into machine-readable coaching data.
-- Implemented "Graceful Degradation" logic where invalid AI outputs trigger deterministic fallbacks, ensuring 100% UI uptime even during LLM failures.
-- Developed a Global Rate Gate middleware to orchestrate Riot API consumption, managing concurrency and quotas across distributed services.
-- Implemented on-the-fly social card generation using server-side rendering stored in S3.
+---
 
-**Stack:** React, TypeScript, Hono, AWS Lambda (SST), Amazon Bedrock (Nova), TanStack Query, Tailwind, ShadCN
+## Side Projects
 
-### **Orchestor – Agentic Social Media Scheduler (IBM watsonx Orchestrate Hackathon 2025)**
-Built the full **backend and AI orchestration layer** for an agentic system that converts raw Asana social-media tasks into validated schedules and repost recommendations. **Delivered the app in a 2-day sprint with 4-person team**
-- Designed the **end-to-end architecture**, mapping how CSV/XLSX data moves from frontend parsing into backend normalization and finally into the Orchestrate agent.
-- Implemented the **backend** with Hono.
-- Integrated **IBM watsonx Orchestrate** using a custom JSON contract that drives multi-step agent reasoning for captions, validation, post-type classification, and scheduling.
-- Built the agent’s **knowledge base**, combining brand guidelines, product features, rule logic, historical posting data, and a formal prompt spec for deterministic output.
-- Delivered the entire **reasoning pipeline**, ensuring stable, machine-readable JSON for the frontend preview experience.
+### 2026
+**CasePilot** — Financial fraud detection and investigation platform; analyzes live transactions, links coordinated behavior, and flags impossible travel (Next.js, TypeScript, Convex, OpenRouter)
 
-**Stack:** React, Hono, Cloudflare Workers, TypeScript, IBM watsonx Orchestrate
-
-### **Ruang Diri – Mental Health Counseling Platform (Professional Work)**
-Core engineer for a counseling platform connecting clients with psychologists.
-- Built the backend with **NestJS** and **PostgreSQL (Drizzle ORM)**.
-- Added **real-time chat** with presence, file sharing, and unread tracking using Ably.
-- Integrated **Zoom automation**, notifications, and background jobs with Bull + Redis.
-- Containerized and deployed the app on **GCP Cloud Run** using Docker.
-- Added **retry logic** and monitoring to background tasks.
-
-**Stack:** NestJS, PostgreSQL (Drizzle), Redis, BullMQ, Ably, React
-
-### **BIMTranslator – AI Sign Language Translator (PAN AI Singapore Hackathon 2025)**
-Worked on the **frontend** for an AI-powered translator that converts Malay Sign Language into text in real time.
-- Built a responsive **gesture recognition interface** using TensorFlow.js and MediaPipe.
-- Integrated **PAN AI LLMs** for contextual text generation and improved translation accuracy.
-- Deployed via **GCP Cloud Run** for seamless browser-based interaction.
-
-**Stack:** React, TensorFlow.js, MediaPipe, GCP, PAN AI LLMs
+### 2025
+**Marmalade** — Voice-first emotional AI companion; real-time safety-gated inference and persistent memory (React, Hono, GCP, VertexAI, ElevenLabs)  
+**LoLo** — Serverless AI League coach; converts match logs into structured coaching insights (React, Hono, TypeScript, AWS)  
+**Orchestor** — Agentic social scheduler; converts tasks into validated posting plans via AI orchestration (React, Hono, watsonx)  
+**BIMTranslator** — Real-time sign language translator in browser (React, TensorFlow.js, GCP)
 
 ---
 
