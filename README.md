@@ -14,7 +14,7 @@ Full-stack Engineer building end-to-end production systems. I combine high-perfo
 
 ## Main Projects
 
-### 2026
+### 2025 - Recent
 **Recess** — Production management platform; role-based workflows, approvals, and staged payouts with RLS-first PostgreSQL (Supabase, TypeScript)  
 **Poopooville** — Multi-chain dApp ecosystem; NFT minting, token sales, vesting/claim flows across Ethereum & BSC (React, Wagmi, Viem)
 
