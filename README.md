@@ -12,17 +12,6 @@ Full-stack Engineer building end-to-end production systems. I combine high-perfo
 
 ---
 
-## Main Projects
-
-### 2025 - Recent
-**Recess** — Production management platform; role-based workflows, approvals, and staged payouts with RLS-first PostgreSQL (Supabase, TypeScript)  
-**Poopooville** — Multi-chain dApp ecosystem; NFT minting, token sales, vesting/claim flows across Ethereum & BSC (React, Wagmi, Viem)
-
-### 2025
-**Ruang Diri** — Counseling platform with real-time chat, session automation, file uploads, and search; modular multi-role backend with strict access control and real-time delivery (NestJS, React, PostgreSQL, BullMQ, Ably, GCP)
-
----
-
 ## Side Projects
 
 ### 2026
