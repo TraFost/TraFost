@@ -15,7 +15,7 @@ Full-stack Engineer building end-to-end production systems. I combine high-perfo
 ## Side Projects
 
 ### 2026
-**CasePilot** — Financial fraud detection and investigation platform; analyzes live transactions, links coordinated behavior, and flags impossible travel (Next.js, TypeScript, Convex, OpenRouter)
+**Takar** — Autonomous AI audit middleware for government procurement; validates pre-contract pricing via live OSINT benchmarking, detects vendor syndicates via vector similarity, and prevents budget markups (Next.js, Convex, OpenRouter, Tavily API)
 
 ### 2025
 **Marmalade** — Voice-first emotional AI companion; real-time safety-gated inference and persistent memory (React, Hono, GCP, VertexAI, ElevenLabs)  
