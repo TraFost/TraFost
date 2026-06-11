@@ -15,7 +15,7 @@ Full-stack engineer with a thing for AI and human behavior. I build systems that
 ## Side Projects
 
 ### 2026
-**Takar** — Autonomous AI audit middleware for government procurement; validates pre-contract pricing via live OSINT benchmarking, detects vendor syndicates via vector similarity, and prevents budget markups (Next.js, Convex, OpenRouter, Tavily API)
+**Takar** — AI audit middleware for Indonesian government procurement; scans invoices, benchmarks prices against live market data, and flags budget markups before disbursement (Next.js, Convex, OpenRouter, Tavily)
 
 ### 2025
 **Marmalade** — Voice-first emotional AI companion; real-time safety-gated inference and persistent memory (React, Hono, GCP, VertexAI, ElevenLabs)  
