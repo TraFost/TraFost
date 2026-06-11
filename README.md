@@ -8,7 +8,7 @@
 
 ## About Me
 
-Full-stack Engineer building end-to-end production systems. I combine high-performance frontend engineering with backend architectures that hold under load, including chat platforms, background workers, AI pipelines, caching layers, and event-driven workflows.
+Full-stack engineer with a thing for AI and human behavior. I build systems that scale and products that people actually feel. Long game: an AI companion that helps people find their way back to themselves.
 
 ---
 
