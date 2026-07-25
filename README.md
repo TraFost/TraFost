@@ -7,14 +7,14 @@ Full-stack engineer with a thing for AI and human behavior. I build systems that
 ## Side Projects
 
 ### 2026
-**Takar** — AI audit middleware for Indonesian government procurement; scans invoices, benchmarks prices against live market data, and flags budget markups before disbursement (Next.js, Convex, OpenRouter, Tavily)
-**Lentera** — AI-powered media literacy toolkit for Indonesian teachers and students; generates classroom lessons grounded in real, current hoaxes, exports to WhatsApp/PDF, and turns lessons into no-login quizzes with shareable score cards (React, Supabase, OpenRouter, Tavily)
+- **Takar** — AI audit middleware for Indonesian government procurement; scans invoices, benchmarks prices against live market data, and flags budget markups before disbursement (Next.js, Convex, OpenRouter, Tavily)
+- **Lentera** — AI-generated media literacy lessons grounded in real Indonesian hoaxes, with WhatsApp/PDF export and shareable no-login quizzes (React, Supabase, OpenRouter & Groq, Tavily)
 
 ### 2025
-**Marmalade** — Voice-first emotional AI companion; real-time safety-gated inference and persistent memory (React, Hono, GCP, VertexAI, ElevenLabs)  
-**LoLo** — Serverless AI League coach; converts match logs into structured coaching insights (React, Hono, TypeScript, AWS)  
-**Orchestor** — Agentic social scheduler; converts tasks into validated posting plans via AI orchestration (React, Hono, watsonx)  
-**BIMTranslator** — Real-time sign language translator in browser (React, TensorFlow.js, GCP)
+- **Marmalade** — Voice-first emotional AI companion; real-time safety-gated inference and persistent memory (React, Hono, GCP, VertexAI, ElevenLabs)  
+- **LoLo** — Serverless AI League coach; converts match logs into structured coaching insights (React, Hono, TypeScript, AWS)  
+- **Orchestor** — Agentic social scheduler; converts tasks into validated posting plans via AI orchestration (React, Hono, watsonx)  
+- **BIMTranslator** — Real-time sign language translator in browser (React, TensorFlow.js, GCP)
 
 ---
 
