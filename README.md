@@ -8,6 +8,7 @@ Full-stack engineer with a thing for AI and human behavior. I build systems that
 
 ### 2026
 **Takar** — AI audit middleware for Indonesian government procurement; scans invoices, benchmarks prices against live market data, and flags budget markups before disbursement (Next.js, Convex, OpenRouter, Tavily)
+**Lentera** — AI-powered media literacy toolkit for Indonesian teachers and students; generates classroom lessons grounded in real, current hoaxes, exports to WhatsApp/PDF, and turns lessons into no-login quizzes with shareable score cards (React, Supabase, OpenRouter, Tavily)
 
 ### 2025
 **Marmalade** — Voice-first emotional AI companion; real-time safety-gated inference and persistent memory (React, Hono, GCP, VertexAI, ElevenLabs)  
