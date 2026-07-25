@@ -1,6 +1,6 @@
 ## About Me
 
-Full-stack engineer with a thing for AI and human behavior. I build systems that scale and products that people actually feel. Long game: an AI companion that helps people find their way back to themselves.
+AI Product Engineer building AI-powered products. Exploring agentic systems, intelligent workflows, and human-centered software.
 
 ---
 
