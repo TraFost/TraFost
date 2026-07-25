@@ -1,6 +1,6 @@
 ## About Me
 
-AI Product Engineer building AI-powered products. Exploring agentic systems, intelligent workflows, and human-centered software.
+AI Full-Stack Engineer building AI-powered products. Exploring agentic systems, intelligent workflows, and how software can better understand the people who use it.
 
 ---
 
