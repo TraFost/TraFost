@@ -6,15 +6,9 @@ AI Full-Stack Engineer building AI-powered products. Exploring agentic systems, 
 
 ## Side Projects
 
-### 2026
+**Active (2026)**
 - **Takar** — AI audit middleware for Indonesian government procurement; scans invoices, benchmarks prices against live market data, and flags budget markups before disbursement (Next.js, Convex, OpenRouter, Tavily)
 - **Lentera** — AI-generated media literacy lessons grounded in real Indonesian hoaxes, with WhatsApp/PDF export and shareable no-login quizzes (React, Supabase, OpenRouter & Groq, Tavily)
-
-### 2025
-- **Marmalade** — Voice-first emotional AI companion; real-time safety-gated inference and persistent memory (React, Hono, GCP, VertexAI, ElevenLabs)  
-- **LoLo** — Serverless AI League coach; converts match logs into structured coaching insights (React, Hono, TypeScript, AWS)  
-- **Orchestor** — Agentic social scheduler; converts tasks into validated posting plans via AI orchestration (React, Hono, watsonx)  
-- **BIMTranslator** — Real-time sign language translator in browser (React, TensorFlow.js, GCP)
 
 ---
 
