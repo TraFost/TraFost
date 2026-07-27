@@ -15,7 +15,6 @@ AI Full-Stack Engineer building AI-powered products. Exploring agentic systems, 
 ## GitHub Activity
 
 <div align="center" style={"display": "flex", "align-items": "center", "justify-content": "center"}>
-  <img src="https://github-readme-stats.vercel.app/api?username=trafost&show_icons=true&theme=radical" alt="Rahman's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trafost&theme=radical" alt="Rahman's GitHub Streak" />
 </div>
 <div align="center">
