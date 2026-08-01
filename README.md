@@ -9,6 +9,7 @@ AI Full-Stack Engineer building AI-powered products. Exploring agentic systems, 
 **Active (2026)**
 - **Takar** — AI audit middleware for Indonesian government procurement; scans invoices, benchmarks prices against live market data, and flags budget markups before disbursement (Next.js, Convex, OpenRouter, Tavily)
 - **Lentera** — AI-generated media literacy lessons grounded in real Indonesian hoaxes, with WhatsApp/PDF export and shareable no-login quizzes (React, Supabase, OpenRouter & Groq, Tavily)
+- **Kelak** — Companion for multi-year dreams: memory-aware chat, one micro-step a day, and letters written from your story (Expo, Convex, Groq & OpenRouter, RevenueCat)
 
 ---
 
