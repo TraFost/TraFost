@@ -2,8 +2,6 @@
 
 AI Full-Stack Engineer building AI-powered products. Exploring agentic systems, intelligent workflows, and how software can better understand the people who use it.
 
-Focused on turning raw data into features that actually work in production.
-
 ---
 
 ## Side Projects
